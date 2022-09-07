@@ -1,0 +1,38 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.inputfield{
+  width:300px;
+  font-size: 25px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-right: 100px;
+}
+.themebutton{
+  margin-top: 50px;
+  width: 150px;
+  height: 40px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  text-align: center;
+  background-color: aqua;
+  cursor: pointer;
+  padding-top:5px;
+  font-size: 25px;
+}
+.imgsoflist{
+  width: 200px;
+  height: 170px;
+}
+.loading{
+  font-size: 40px;
+  font-weight: bolder;
+}
+.inputandswitch{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
